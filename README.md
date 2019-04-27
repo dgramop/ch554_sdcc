@@ -1,3 +1,5 @@
+# Changes: Only wrote a script to translate a few of the comments in some of the files relevant to what I needed so I could understand what was going on
+
 # CH554 software development kit for SDCC [![Build Status](https://travis-ci.org/Blinkinlabs/ch554_sdcc.svg?branch=master)](https://travis-ci.org/Blinkinlabs/ch554_sdcc)
 
 ![image](https://raw.githubusercontent.com/Blinkinlabs/ch554_sdcc/master/documentation/devboard.png)
